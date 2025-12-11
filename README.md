@@ -3,23 +3,23 @@ The "SOS Mobile App" is simple and fast emerency application built using Kodular
 With asingle tap,the app instanlymakes a call to your save contact.
 This app does not use location, GPS, or internet it focuses only  on emergency calling.
 Features:
- One-Tap Emergency call:
+1.One-Tap Emergency call:
    Instantly calls the emergency number number you set
-   Fast & Lightweight:
- Work without internet
+2.Fast & Lightweight:
+   Work without internet
    No location or SMS features.
- Simple UI:
+3.Simple UI:
    Big SOS button for quick access.
- Private Friendly:
+4.Private Friendly:
    NO tracking
    No data collection
    No permissions expect calls
 Built With:
   Kodular Creater (Drag & Drop Builder)
   Components Used:
-    Call Phone 
-    Button
-    Layout & Label
+    1.Call Phone 
+    2.Button
+    3.Layout & Label
 How it Works:
   1. User Open the App
   2. Presses the "SOS Button"
