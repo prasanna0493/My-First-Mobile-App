@@ -26,6 +26,7 @@ This app does not use location, GPS, or internet it focuses only  on emergency c
   3. The App immediately starts a phone call to the emergency number
 
 
+# Update Egg Tray App
 "Welcome! This is my IoT Egg Tray monitoring & Bulb Control app built using Kodular and Firebase,allowing real-time sensor monitoring and smart device control.
 IoT Egg Tray Monitoring & Bulb Control App (kodular + Firebase)
 This mobile application developed using Kodular to monitor an egg tray status and remotely control a bulb using Firebase Realtime Database. This app reads live sensor values from hardware and updates the Ul instantly.
